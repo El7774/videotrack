@@ -15,7 +15,7 @@ android {
     targetSdk = 34
     versionCode = 1
     versionName = "0.1.0"
-    buildConfigField("String", "API_BASE_URL", "\"https://tua-app-su-render.onrender.com/\"")
+    buildConfigField("String", "API_BASE_URL", "\"https://cinetrack-backend-gqk4.onrender.com/\"")
   }
 
   buildTypes {
